@@ -1,0 +1,1 @@
+start "1" scrapy crawl trade_india_link_profile_link
